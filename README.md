@@ -3,6 +3,9 @@ Predicting the magnitude of area affected by Forest Fire
 
 In this task, the aim is to predict the burned area of forest fires, in the northeast region of Portugal, by using meteorological and other data.
 
+# Evaluation metric
+RMSE 
+
 # File Description
 train.csv - training data<br>
 test.csv - testing data
